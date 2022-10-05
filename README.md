@@ -26,6 +26,6 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 </br>
 
 #### Read:
-* Getting started guide (https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd)
+* Getting started guide: [https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd](https://argo-cd.readthedocs.io/en/stable/getting_started/#1-install-argo-cd)
 
 
